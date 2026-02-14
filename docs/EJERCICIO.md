@@ -114,9 +114,9 @@ Este documento lista los 4 ejercicios que practicarás a lo largo del curso.
 
 ¿Completaste todos los ejercicios?
 
-- [ ] ✅ Ejercicio 1: Repositorio local con 2+ commits
-- [ ] ✅ Ejercicio 2: Historial con 3 commits
-- [ ] ✅ Ejercicio 3: GitHub tiene tus archivos
-- [ ] ✅ Ejercicio 4: Pull y push funcionan
+- [ X] ✅ Ejercicio 1: Repositorio local con 2+ commits
+- [ X] ✅ Ejercicio 2: Historial con 3 commits
+- [ X] ✅ Ejercicio 3: GitHub tiene tus archivos
+- [ X] ✅ Ejercicio 4: Pull y push funcionan
 
 Si completaste TODO → **Estás listo para el entregable final**
